@@ -2,8 +2,9 @@ body {
     background: rgb(133, 131, 131);
 }
 .container {
-    margin: 20px;
+    margin: 20px auto;
     text-align: center;
+    width: 80%;
     /* display: flex;
     justify-content: center; */
 }
@@ -23,4 +24,16 @@ header {
     font-family: "PT Sans Narrow", sans-serif;
     font-weight: 50;
     cursor: pointer;
+}
+.search input, button{
+    font-family: "PT Sans Narrow", sans-serif;
+}
+.search input {
+    padding: 5px 50px 5px 2px;
+}
+.search-btn {
+    background: rgb(52, 50, 50);
+    color: white;
+    padding: 5px 35px;
+    outline: none;
 }
