@@ -61,3 +61,7 @@ main h2 {
     flex-basis: 25%;
     margin: 15px 0 15px 0;
 }
+.sidebar-list {
+    text-align: left;
+}
+
