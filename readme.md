@@ -11,6 +11,8 @@ Features:
 
 Notes:
 
+- From start to finish this page took about 1 hr.
+
 Challenges:
 
 Future Development:
