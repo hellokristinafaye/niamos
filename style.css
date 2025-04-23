@@ -38,10 +38,13 @@ header {
     outline: none;
 }
 main {
+    display: flex;
+}
+.article {
     background: white;
     padding: 20px;
     margin: 15px 15px 15px 0;
     /* display: flex; */
-    width: 74%;
+    flex-basis: 74%;
     text-align: left;
 }
