@@ -55,3 +55,9 @@ main h2, h3 {
 main h2 {
     text-align: center;
 }
+
+.sidebar {
+    background:rgb(246, 108, 234);
+    flex-basis: 25%;
+    
+}
