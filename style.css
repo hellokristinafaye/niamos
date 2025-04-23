@@ -3,11 +3,13 @@ body {
 }
 .container {
     margin: 20px;
-    display: flex;
-    justify-content: center;
+    text-align: center;
+    /* display: flex;
+    justify-content: center; */
 }
 header {
     font-family: Fascinate, serif;
     font-style: italic;
     color: white;
+    /* text-align: center;     */
 }
